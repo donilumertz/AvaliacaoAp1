@@ -1,0 +1,12 @@
+foi no github
+criei repositorio AvaliacaoAp1
+fui filial e criei uma branch revisao
+clonei o repositorio AvaliacaoAp1
+abri o explorer fui ate o diretorio para trabalho abri git bash here
+git clone http://github.com/donilumertz/AvaliacaoAp1.git + enter
+na area de trabalho no diretorio master
+AvaliacaoAp1 criei dois arquivos: ap1.txt e ap1-1.txt
+git status os dois arquivos estao la na master
+git checkout revisao touch ap1-2.txt + enter git add .
+git commit - m "arquivos para avalicaoAp1"
+git push
